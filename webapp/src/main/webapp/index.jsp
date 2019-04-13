@@ -3,7 +3,7 @@
 its done docker
 <h1> Good to see you here :) <h1>
 <p>
-		It is now
+		It is now time to rise
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
